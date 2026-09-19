@@ -1,0 +1,104 @@
+{
+  "completed": 25000,
+  "total": 25000,
+  "seed": 2718281828,
+  "mode": "25k",
+  "elapsedSec": 297.3,
+  "stats": {
+    "total": 25000,
+    "correct": 23809,
+    "wrong": 121,
+    "unknown": 1070,
+    "verificationCaught": 0,
+    "verificationFailed": 121,
+    "manualReview": 0,
+    "falsePositives": 0,
+    "categories": {
+      "Arithmetic": {
+        "total": 2500,
+        "correct": 2379,
+        "wrong": 121,
+        "unknown": 0,
+        "verificationCaught": 0,
+        "verificationFailed": 121
+      },
+      "Fractions/Decimals/Percentages": {
+        "total": 2500,
+        "correct": 2500,
+        "wrong": 0,
+        "unknown": 0,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      },
+      "Linear Equations": {
+        "total": 2500,
+        "correct": 1858,
+        "wrong": 0,
+        "unknown": 642,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      },
+      "Systems of Equations": {
+        "total": 2500,
+        "correct": 2500,
+        "wrong": 0,
+        "unknown": 0,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      },
+      "Quadratics/Polynomials": {
+        "total": 2500,
+        "correct": 2500,
+        "wrong": 0,
+        "unknown": 0,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      },
+      "Functions/Algebra": {
+        "total": 2500,
+        "correct": 2500,
+        "wrong": 0,
+        "unknown": 0,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      },
+      "Geometry/Trigonometry": {
+        "total": 2500,
+        "correct": 2500,
+        "wrong": 0,
+        "unknown": 0,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      },
+      "Calculus": {
+        "total": 2500,
+        "correct": 2500,
+        "wrong": 0,
+        "unknown": 0,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      },
+      "Probability/Statistics": {
+        "total": 2500,
+        "correct": 2500,
+        "wrong": 0,
+        "unknown": 0,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      },
+      "Physics/Math Crossover": {
+        "total": 2500,
+        "correct": 2072,
+        "wrong": 0,
+        "unknown": 428,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      }
+    }
+  },
+  "heapMb": 51.5,
+  "peakHeapMb": 114.8,
+  "activeProcesses": 0,
+  "peakConcurrentProcesses": 4,
+  "timestamp": "2026-09-19T19:57:55.949Z"
+}
