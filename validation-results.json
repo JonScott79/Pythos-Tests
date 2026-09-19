@@ -1,0 +1,103 @@
+{
+  "timestamp": "2026-09-19T15:13:12.277Z",
+  "seed": 987654321,
+  "stats": {
+    "total": 10000,
+    "correct": 6687,
+    "wrong": 0,
+    "unknown": 3313,
+    "verificationCaught": 0,
+    "verificationFailed": 0,
+    "manualReview": 0,
+    "flawedReasoning": 0,
+    "categories": {
+      "Arithmetic": {
+        "total": 1000,
+        "correct": 1000,
+        "wrong": 0,
+        "unknown": 0,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      },
+      "Fractions/Decimals/Percentages": {
+        "total": 1000,
+        "correct": 1000,
+        "wrong": 0,
+        "unknown": 0,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      },
+      "Linear Equations": {
+        "total": 1000,
+        "correct": 1000,
+        "wrong": 0,
+        "unknown": 0,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      },
+      "Systems of Equations": {
+        "total": 1000,
+        "correct": 1000,
+        "wrong": 0,
+        "unknown": 0,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      },
+      "Quadratics/Polynomials": {
+        "total": 1000,
+        "correct": 937,
+        "wrong": 0,
+        "unknown": 63,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      },
+      "Functions/Algebra": {
+        "total": 1000,
+        "correct": 600,
+        "wrong": 0,
+        "unknown": 400,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      },
+      "Geometry/Trigonometry": {
+        "total": 1000,
+        "correct": 1000,
+        "wrong": 0,
+        "unknown": 0,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      },
+      "Calculus": {
+        "total": 1000,
+        "correct": 0,
+        "wrong": 0,
+        "unknown": 1000,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      },
+      "Probability/Statistics": {
+        "total": 1000,
+        "correct": 150,
+        "wrong": 0,
+        "unknown": 850,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      },
+      "Physics/Math Crossover": {
+        "total": 1000,
+        "correct": 0,
+        "wrong": 0,
+        "unknown": 1000,
+        "verificationCaught": 0,
+        "verificationFailed": 0
+      }
+    }
+  },
+  "solvingRate": "66.87",
+  "errorRate": "0.00",
+  "unknownRate": "33.13",
+  "ciLower": "0.00",
+  "ciUpper": "0.04",
+  "elapsedSec": 0.671,
+  "failures": []
+}
