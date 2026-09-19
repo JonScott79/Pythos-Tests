@@ -3,24 +3,24 @@
   "total": 25000,
   "seed": 2718281828,
   "mode": "25k",
-  "elapsedSec": 297.3,
+  "elapsedSec": 284.8,
   "stats": {
     "total": 25000,
-    "correct": 23809,
-    "wrong": 121,
+    "correct": 23930,
+    "wrong": 0,
     "unknown": 1070,
     "verificationCaught": 0,
-    "verificationFailed": 121,
+    "verificationFailed": 0,
     "manualReview": 0,
     "falsePositives": 0,
     "categories": {
       "Arithmetic": {
         "total": 2500,
-        "correct": 2379,
-        "wrong": 121,
+        "correct": 2500,
+        "wrong": 0,
         "unknown": 0,
         "verificationCaught": 0,
-        "verificationFailed": 121
+        "verificationFailed": 0
       },
       "Fractions/Decimals/Percentages": {
         "total": 2500,
@@ -96,9 +96,9 @@
       }
     }
   },
-  "heapMb": 51.5,
-  "peakHeapMb": 114.8,
+  "heapMb": 50.7,
+  "peakHeapMb": 114.7,
   "activeProcesses": 0,
   "peakConcurrentProcesses": 4,
-  "timestamp": "2026-09-19T19:57:55.949Z"
+  "timestamp": "2026-09-19T20:22:59.664Z"
 }

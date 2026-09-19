@@ -319,7 +319,9 @@ function generateValidationProblems(seed, countPerCategory = 2500) {
     } else if (i < Math.floor(N * 0.92)) {
       const base = randInt(-10, 10);
       const exp = randInt(2, 4);
-      problems.push({ id: id++, category: 'Arithmetic', prompt: `${pfx} ${base}^${exp}`.trim(), expected: Math.pow(base, exp) });
+      // For unparenthesized -a^b, unary negation has lower precedence than exponentiation: -a^b = -(a^b)
+      const expected = base < 0 ? -Math.pow(Math.abs(base), exp) : Math.pow(base, exp);
+      problems.push({ id: id++, category: 'Arithmetic', prompt: `${pfx} ${base}^${exp}`.trim(), expected });
     } else {
       if (i % 2 === 0) {
         const a = randInt(1, 100);
